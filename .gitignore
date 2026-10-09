@@ -1,0 +1,14 @@
+# Data (do not commit)
+*.csv
+*.csv.gz
+*.zip
+data/
+
+# Assignment handout
+*.docx
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+.DS_Store
